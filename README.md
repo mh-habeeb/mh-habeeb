@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammed Habeeb 👋
 
-<!--
-**mh-habeeb/mh-habeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI/ML engineer and BS in Data Science and Applications student at IIT Madras.
 
-Here are some ideas to get you started:
+I’m building my foundations in Python, statistics, and data science by making small projects and documenting what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Python and programming fundamentals
+- Statistics and data science
+- Machine learning
+
+## Projects
+- [Hello World in Python](https://github.com/mh-habeeb/hello-world-python) — my first small Python project; it asks for a name and prints a friendly greeting.
+- [Portfolio](https://mh-habeeb.github.io/portfolio/) — my projects and learning journey.
+
+## Find me
+- [Portfolio](https://mh-habeeb.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/muhammed-habeeb/)
